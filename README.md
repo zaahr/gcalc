@@ -1,13 +1,13 @@
 # Genesis
 
+![alt text](https://www.maplesoft.com/support/help/content/8379/plot304.gif)
+
 Recreated the popular graphing calculator "Desmos" on Python using matplotlib, scipy and numpy. Genesis can be used as an extensive graphing application that can plot 2D and 3D curves, while also being able to integrate and differentiate functions.
 
 # To Do
 
 - Remake the 3D graphing aspect, making it easier for graphing complex and cartesian co-ordinates on the same graph, and a colourful GUI with it.
-  ![alt text](https://www.maplesoft.com/support/help/content/8379/plot304.gif)
 - Add polar curves and coordinates to be able to be plotted 
-  ![alt text](https://media4.giphy.com/media/mnK2Zncuu9IFa/giphy.gif)
 - Restructure all code into one place for just one application for graphing every type of graph
 - Support more graphs in general
 
